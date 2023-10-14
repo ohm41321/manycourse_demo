@@ -71,7 +71,7 @@ const submitKeys = () => {
   margin: 1rem auto;
   padding: 20px;
   justify-content: center;
-  background-image: linear-gradient(to top, #ffffff00, #ffa601c7);
+  background-image: linear-gradient(to bottom, #ffffff00, #ffa601c7);
   border-radius: 90px;
 }
   .asd{
