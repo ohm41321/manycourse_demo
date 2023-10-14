@@ -35,14 +35,15 @@
 <script setup>
 import { RouterLink } from 'vue-router';
 
+// fn change theme
 const toggleDarkTheme = () => {
-  const icon = document.getElementById("icon-theme"); // Use the correct ID of the image element
+  const icon = document.getElementById("icon-theme"); 
 
   document.body.classList.toggle("dark-theme");
   if (document.body.classList.contains("dark-theme")) {
-    icon.src = 'https://cdn-icons-png.flaticon.com/512/3050/3050031.png'; // Update the image src
+    icon.src = 'https://cdn-icons-png.flaticon.com/512/3050/3050031.png'; 
   } else {
-    icon.src = 'https://cdn-icons-png.flaticon.com/512/4445/4445942.png'; // Update the image src
+    icon.src = 'https://cdn-icons-png.flaticon.com/512/4445/4445942.png'; 
   }
 };
 
