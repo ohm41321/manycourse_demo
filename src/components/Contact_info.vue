@@ -11,7 +11,7 @@
     <div class="row mt-4">
 
       <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-       <h5 class="text-uppercase mb-4" align="center" >About Company</h5>
+       <h5 class="text-uppercase mb-4" align="center" style="color: #ffa601;" >About Company</h5>
 
         <p>
             บริษัท "Many Course" เป็น บริษัท ที่เชี่ยวชาญในการบริการทางการศึกษาและการพัฒนาทักษะทางวิชาชีพที่หลากหลายในรูปแบบการออนไลน์และเหมาะสำหรับกลุ่มผู้เรียนทุกช่วงวัยและระดับการศึกษา
@@ -24,7 +24,7 @@
       </div>
   
       <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-        <h5 class="text-uppercase mb-4 pb-1" align="center" >Location And CONTACT</h5>
+        <h5 class="text-uppercase mb-4 pb-1" align="center" style="color: #ffa601;" >Location And CONTACT</h5>
         <ul class="fa-ul" style="margin-left: 1.65em;">
           <li class="mb-3">
             <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">เลขที่ 63 หมู่ 4 ต.หนองหาร อ.สันทราย จ.เชียงใหม่ 50290</span>

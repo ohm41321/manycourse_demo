@@ -14,8 +14,8 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-start">
-            <h1>Welcome to Many Course</h1>
-            <p class="opacity-75">Discover the most interesting courses for you.</p>   
+            <h1 style="color: #ffa601;">Welcome to Many Course</h1>
+            <p class="opacity-75" >Discover the most interesting courses for you.</p>   
           </div>
         </div>
       </div>
@@ -24,7 +24,7 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption">
-            <h1>Let us take care of your future.</h1>
+            <h1 style="color: #ffa601;">Let us take care of your future.</h1>
             <p>Develop your skills and create a better future.</p>
           </div>
         </div>
@@ -34,7 +34,7 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-end">
-            <h1>Awaken your knowledge.</h1>
+            <h1 style="color: #ffa601;">Awaken your knowledge.</h1>
             <p>Open up a limitless learning experience.</p>
           </div>
         </div>
