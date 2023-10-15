@@ -51,7 +51,7 @@ const submitKeys = () => {
      showConfirmButton: false,
      timer: 2000
     });
-  } else if (keyInput.value.trim().length > 9) {
+  } else if (keyInput.value.trim().length > 11) {
     alert_store.submit_alert(keyInput.value);
   } else {
     Swal.fire({

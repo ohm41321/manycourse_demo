@@ -31,9 +31,6 @@ import('../assets/font.css')
     </div>
     </template>
 <style>
-.box-card-course{
-  
-}
 .line{
   border: 1px solid #000000;
 }

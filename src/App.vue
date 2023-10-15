@@ -9,8 +9,6 @@ import FooterPage from '@/components/FooterPage.vue'
 
 <template>
 <HeaderWeb/>
-  <!--<RouterLink to="/">Home</RouterLink>
-  <RouterLink to="/about">About</RouterLink>-->
 <RouterView /> 
 <FooterPage/>
 </template>
