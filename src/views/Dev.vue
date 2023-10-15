@@ -184,7 +184,7 @@ img{
  justify-content: center;
  align-items: center;
  border-radius: 5px;
- background: #183153;
+ background: #11223a;
  font-family: "Montserrat", sans-serif;
  box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
  overflow: hidden;
@@ -239,5 +239,9 @@ img{
   transform: scale(1);
  }
 }
-
+@media screen and (max-width: 499px) {
+  .bt-contact span {
+ font-size: 1em;
+}
+}
 </style>

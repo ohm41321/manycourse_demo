@@ -90,27 +90,27 @@ export const dataStore = defineStore('course', () => {
           id:1,name:'Athit Fongkhaimuk',
           img:'https://cdn.discordapp.com/attachments/1003582679465345034/1162014100553998436/image.png?ex=653a64f6&is=6527eff6&hm=0507c1f800c4f9297905dcdf1676b74d5a5efe5a8b487396b64bbfdbb2bd62f9&',
           url:'https://poplme.co/G7lP22B1/share',
-          text:'Front-end Development'
+          text:'6504101409',
          },{
           id:2,name:'Chaiyut Suntharote',
           img:'https://media.discordapp.net/attachments/1003582679465345034/1162012341932662824/365298108_4223788944514137_6778048245465402849_n.jpg?ex=653a6353&is=6527ee53&hm=d60c3b091bf802147d15ecf43e8910a5b398c8d4299041b1731d32985e621943&=&width=663&height=662',
           url:'https://poplme.co/GU4bLcu6/dash',
-          text:'Web Design'
+          text:'6504101318',
          },{
           id:3,name:'Preeyanuch Homseang',
           img:'https://cdn.discordapp.com/attachments/1003582679465345034/1162010492638871583/370122461_642879934634051_1136407460544028460_n.jpg?ex=653a619a&is=6527ec9a&hm=cac591c9824a1eab6497354cd86e0d3c9c1122afcb7cd3c676b36da8b81e808e&',
           url:'https://poplme.co/hash/FxjbYBMb/1/s',
-          text:''
+          text:'6504101354',
          },{
           id:4,name:'Sugritta Singharatho',
           img:'https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/373680210_966950998064702_6489262070922683041_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGexDxW0D1QdtfVvayoOM-SzSYrl2lqURDNJiuXaWpREBpTXIfZN04pL217x605m-rSz8O2hB0GjVHD-OK_Uljn&_nc_ohc=-YoQYYDPQWMAX8h9ANA&_nc_ht=scontent.fcnx3-1.fna&oh=00_AfCAeYgzKwCLkil2-eOwRd8HRPW4Xjf6jtkGpzOgwkhQUw&oe=652C261D',
           url:'https://poplme.co/hash/IYFbs40Q/1?fbclid=IwAR3y52eevHBReBtalNEhHG-yTRo3-HFz0QW8CT8-8uvm-nKputCbO-LpvYc',
-          text:''
+          text:'6504101405',
          },{
           id:5,name:'Praphaluck Thitimanokun',
           img:'https://media.discordapp.net/attachments/1003582679465345034/1162011851895349279/384543889_848461990118754_5932417620976423628_n.jpg?ex=653a62de&is=6527edde&hm=58ff06cf11e48f564fec7f32eef1d3adb84a3ca94c9f16de26eab4c84d22cca8&=&width=496&height=661',
-          url:'',
-          text:''
+          url:'https://poplme.co/Geaql6MS/dash',
+          text:'6504101352',
          },
       ])
 
