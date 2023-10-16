@@ -103,7 +103,7 @@ export const dataStore = defineStore('course', () => {
           text:'6504101354',
          },{
           id:4,name:'Sugritta Singharatho',
-          img:'https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/373680210_966950998064702_6489262070922683041_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGexDxW0D1QdtfVvayoOM-SzSYrl2lqURDNJiuXaWpREBpTXIfZN04pL217x605m-rSz8O2hB0GjVHD-OK_Uljn&_nc_ohc=-YoQYYDPQWMAX8h9ANA&_nc_ht=scontent.fcnx3-1.fna&oh=00_AfCAeYgzKwCLkil2-eOwRd8HRPW4Xjf6jtkGpzOgwkhQUw&oe=652C261D',
+          img:'https://media.discordapp.net/attachments/1003582679465345034/1163347199778885632/373680210_966950998064702_6489262070922683041_n.jpg?ex=653f3e82&is=652cc982&hm=faab58c2fe1406dfe1b126e8804daa021f8056d72bef434c2ba06b150ad5b834&=&width=655&height=662',
           url:'https://poplme.co/hash/IYFbs40Q/1?fbclid=IwAR3y52eevHBReBtalNEhHG-yTRo3-HFz0QW8CT8-8uvm-nKputCbO-LpvYc',
           text:'6504101405',
          },{
